@@ -1,0 +1,4 @@
+attendance/
+/node_modules/
+/__pycache__/
+Attendance_system/model/
