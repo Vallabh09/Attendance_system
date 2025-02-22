@@ -1,0 +1,9 @@
+flask-cors
+flask
+torch
+keras
+mtcnn
+pillow
+numpy
+facenet-pytorch
+faiss-cpu
